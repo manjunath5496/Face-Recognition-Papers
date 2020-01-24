@@ -544,41 +544,67 @@ techniques</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(300).pdf" style="text-decoration:none;">Face Detection with Feature Pyramids and Landmarks</a></b></li>
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(301).pdf" style="text-decoration:none;">Designing quantum experiments with a genetic algorithm</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(301).pdf" style="text-decoration:none;">Design and Interpretation of Universal Adversarial Patches in Face Detection</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(302).pdf" style="text-decoration:none;">Phase transition encoded in neural network</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(302).pdf" style="text-decoration:none;">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(303).pdf" style="text-decoration:none;">Approximating the solution to wave propagation using deep neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(304).pdf" style="text-decoration:none;">Boltzmann Generators – Sampling Equilibrium States of Many-Body Systems with Deep Learning</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(305).pdf" style="text-decoration:none;">Enhancing the efficiency of quantum annealing via reinforcement: A path-integral Monte Carlo simulation of the quantum
-reinforcement algorithm</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(306).pdf" style="text-decoration:none;">Quantum algorithms for feedforward neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(307).pdf" style="text-decoration:none;">A hybrid machine-learning algorithm for designing quantum experiments</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(303).pdf" style="text-decoration:none;">HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(304).pdf" style="text-decoration:none;">A Robust Multilinear Model Learning Framework for 3D Faces</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(305).pdf" style="text-decoration:none;">3D Face Morphable Models "In-the-Wild"</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(306).pdf" style="text-decoration:none;">A 3D Morphable Model learnt from 10,000 faces</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(307).pdf" style="text-decoration:none;">A Practical Transfer Learning Algorithm for Face Verification</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(308).pdf" style="text-decoration:none;">q-means: A quantum algorithm for unsupervised machine learning </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(309).pdf" style="text-decoration:none;">Adaptive Quantum State Tomography with Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(308).pdf" style="text-decoration:none;">Face Recognition with Contrastive Convolution </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(309).pdf" style="text-decoration:none;">OpenFace: A general-purpose face recognition library with mobile applications</a></b></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(310).pdf" style="text-decoration:none;">Machine Learning as a universal tool for quantitative investigations of phase transitions </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(311).pdf" style="text-decoration:none;">Machine Learning for Optimal Parameter Prediction in Quantum Key Distribution</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(312).pdf" style="text-decoration:none;">Parameters optimization and real-time calibration of Measurement-Device-Independent Quantum Key Distribution Network based on BackPropagation Artificial Neural Network</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(313).pdf" style="text-decoration:none;">Optimizing Quantum Error Correction Codes with Reinforcement Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(310).pdf" style="text-decoration:none;">Cosine Similarity Metric Learning for Face Verification </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(311).pdf" style="text-decoration:none;">Marginal Loss for Deep Face Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(312).pdf" style="text-decoration:none;">Bayesian Face Revisited: A Joint Formulation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(313).pdf" style="text-decoration:none;">Joint Cascade Face Detection and Alignment</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(314).pdf" style="text-decoration:none;">Deep ToC: A New Method for Estimating the Solutions of PDEs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(314).pdf" style="text-decoration:none;">Large-pose Face Alignment via CNN-based Dense 3D Model Fitting</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(315).pdf" style="text-decoration:none;">Variational quantum simulation of general processes</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(315).pdf" style="text-decoration:none;">The MegaFace Benchmark: 1 Million Faces for Recognition at Scale</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(316).pdf" style="text-decoration:none;">QuCumber: wavefunction reconstruction with neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(316).pdf" style="text-decoration:none;">Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(317).pdf" style="text-decoration:none;">Quantum algorithm and quantum circuit for A-Optimal Projection: dimensionality reduction</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(317).pdf" style="text-decoration:none;">A Convolutional Neural Network Cascade for Face Detection</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(318).pdf" style="text-decoration:none;">Extrapolation of quantum observables with Gaussian processes</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(318).pdf" style="text-decoration:none;">Pose-Aware Face Recognition in the Wild</a></b></li> 
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(319).pdf" style="text-decoration:none;">The geometry of quantum learning</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(319).pdf" style="text-decoration:none;">Discriminative Invariant Kernel Features: A Bells-and-Whistles-Free Approach to Unsupervised Face Recognition and Pose Estimation</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(320).pdf" style="text-decoration:none;">Improved Bounds on Quantum Learning Algorithms</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(320).pdf" style="text-decoration:none;">Deep Face Recognition</a></b></li>
 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(321).pdf" style="text-decoration:none;">Automated 3D Face Reconstruction from Multiple Images using Quality Measures</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(322).pdf" style="text-decoration:none;">Joint Training of Cascaded CNN for Face Detection</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(323).pdf" style="text-decoration:none;">Adaptive 3D Face Reconstruction from Unconstrained Photo Collections</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(324).pdf" style="text-decoration:none;">Deep Learning Face Representation from Predicting 10,000 Classes</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(315).pdf" style="text-decoration:none;">The MegaFace Benchmark: 1 Million Faces for Recognition at Scale</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(316).pdf" style="text-decoration:none;">Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(317).pdf" style="text-decoration:none;">A Convolutional Neural Network Cascade for Face Detection</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(318).pdf" style="text-decoration:none;">Pose-Aware Face Recognition in the Wild</a></b></li> 
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(319).pdf" style="text-decoration:none;">Discriminative Invariant Kernel Features: A Bells-and-Whistles-Free Approach to Unsupervised Face Recognition and Pose Estimation</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(320).pdf" style="text-decoration:none;">Deep Face Recognition</a></b></li>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
