@@ -593,6 +593,7 @@ techniques</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/frp(328).pdf" style="text-decoration:none;">Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/frp(329).pdf" style="text-decoration:none;">Face Detection and Recognition: Theory and Practice</a></b></li> 
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/frp(330).pdf" style="text-decoration:none;">Latent Factor Guided Convolutional Neural Networks for Age-Invariant Face Recognition</a></b></li> 
 
@@ -612,7 +613,7 @@ techniques</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/frp(337).pdf" style="text-decoration:none;">Unconstrained Face Alignment via Cascaded Compositional Learning</a></b></li>
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/frp(338).pdf" style="text-decoration:none;">Methods for face detection and adaptive face recognition</a></b></li>
  
  
  
